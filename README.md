@@ -32,6 +32,7 @@ There are 4 users that use different currencies. For some users banking data con
 [visit the page](https://learnfl.github.io/proj-web-bankist/)
 
 ## Video Introduction on YouTube
+[Video](https://youtu.be/G_C3BJlRKEs)
 
 
 ## Screenshots
