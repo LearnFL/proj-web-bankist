@@ -4,7 +4,7 @@
 The purspose of this project was to practice JavaScript by creating a banking app without using third party libraries. The main focus was concentrated on working with DOM, arrays, strings etc. It was not my goal to build a fully functional web application that supports authentication, feels and looks like a real online banking. 
 
 ## Process
-JavaScript, HTML, CSS. Inspired by Jonas Schmedtmann, implementation is completely mine, I made multiple modifications to the original challenge.
+JavaScript, HTML, CSS. Inspired by Jonas Schmedtmann, copyright by Jonas Schmedtmann, implementation is mine, I made multiple modifications to the original challenge.
 
 #### Users
 There are 4 users that use different currencies. For some users banking data contains timestamps of the transaction, for some users there is no transation timestamp. That was done on purpose.
