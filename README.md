@@ -37,3 +37,5 @@ There are 4 users that use different currencies. For some users banking data con
 
 ## Screenshots
 ![Screen Shot 2022-12-07 at 8 59 09 PM](https://user-images.githubusercontent.com/86169204/206338069-9a1f75f9-1e83-4a63-b22a-6a50deb4732b.png)
+![Screen Shot 2022-12-08 at 9 34 41 AM](https://user-images.githubusercontent.com/86169204/206473749-b8032cbd-e29b-43ab-a06b-af846ae924c2.png)
+
