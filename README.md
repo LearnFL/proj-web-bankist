@@ -16,7 +16,7 @@ There are 4 users that use different currencies. For some users banking data con
 4. User name: ss, pin: 4444
 
 ## Functionality
-1. The app implements basic dark mode and light mode UI.
+1. The app implements basic dark mode and light mode UI. Insteadof Icons I used emojis, for this reason it may look differently on different computers.
 2. The app automatically creates 'user name' out of account holders' names. User name is not case sensitive. If login data is incorrect the user will be notified.
 3. Currency. The app will automatically display account holders currency type.
 4. If user's data contains transaction timestamps they will be displayed. If the transaction took a place today or yesterday, instead of displaying a date it wills say 'TODAY' or 'YESTERDAY'. 
@@ -29,7 +29,7 @@ There are 4 users that use different currencies. For some users banking data con
 11. Close account. Only account holder may close account. Once closed you will be presented two options: reload the app or continue with the existing data and remaining users.
 
 ## See live page
-[play the game](https://learnfl.github.io/proj-web-pig-game/)
+[visit the page](https://learnfl.github.io/proj-web-bankist/)
 
 ## Video Introduction on YouTube
 
